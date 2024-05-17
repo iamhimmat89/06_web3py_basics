@@ -1,0 +1,8 @@
+; configuration file
+
+[Account_Details] ; section 
+account = 0xECD017xxxxxxxxxxxxxxxxxxxxxxxxxxx
+private_key = xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+[Connection_Details] ; section
+http_rpc_url = https://rinkeby.infura.io/v3/<YOUR_KEY> 
